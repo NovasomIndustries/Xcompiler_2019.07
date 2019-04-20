@@ -1,0 +1,5 @@
+#!/Devel/NOVAsdk2019.07/Xcompiler/aarch64-arm-gcc-6.4.0/bin/python2.7
+import sys
+from lib2to3.main import main
+
+sys.exit(main("lib2to3.fixes"))
